@@ -1,0 +1,1 @@
+This is Gast's first git project!
